@@ -34,7 +34,7 @@ intelligent\_email\_writer/
 ### 1. Kloning repository
 
 ```bash
-git clone https://github.com/username/intelligent_email_writer.git
+git clone https://github.com/irfnriza/intelligent_email_writer.git
 cd intelligent_email_writer
 ````
 
